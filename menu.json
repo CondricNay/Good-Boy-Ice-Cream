@@ -1,0 +1,78 @@
+[
+    {
+        "Ice Cream": {
+            "Flavor": [
+                "vanilla"
+            ],
+            "Topping": [
+                "None"
+            ],
+            "Container": [
+                "bread"
+            ],
+            "Size": [
+                "small"
+            ],
+            "Price": 10.0,
+            "Paid Amount": 20.0,
+            "Change": 10.0
+        }
+    },
+    {
+        "Ice Cream": {
+            "Flavor": [
+                "vanilla"
+            ],
+            "Topping": [
+                "None"
+            ],
+            "Container": [
+                "cone"
+            ],
+            "Size": [
+                "small"
+            ],
+            "Price": 5.0,
+            "Paid Amount": 7.0,
+            "Change": 2.0
+        }
+    },
+    {
+        "Ice Cream": {
+            "Flavor": [
+                "vanilla"
+            ],
+            "Topping": [
+                "None"
+            ],
+            "Container": [
+                "cone"
+            ],
+            "Size": [
+                "small"
+            ],
+            "Price": 5.0,
+            "Paid Amount": 6.0,
+            "Change": 1.0
+        }
+    },
+    {
+        "Ice Cream": {
+            "Flavor": [
+                "vanilla"
+            ],
+            "Topping": [
+                "None"
+            ],
+            "Container": [
+                "cone"
+            ],
+            "Size": [
+                "small"
+            ],
+            "Price": 5.0,
+            "Paid Amount": 6.0,
+            "Change": 1.0
+        }
+    }
+]
