@@ -1,9 +1,10 @@
-from order import get_order
+from order import Order
 from price import Price
 from transaction import Transaction
 
 
-flavor_dict, topping_dict, container_dict, size_dict = get_order()
+order = Order()
+flavor_dict, topping_dict, container_dict, size_dict = order.get_order()
 price = Price(flavor_dict, topping_dict, container_dict, size_dict)
 
 total_price = price.get_price()
