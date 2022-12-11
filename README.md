@@ -16,6 +16,7 @@
     Python 3.10.8 with json library
 
 ##### Program Design:
+    > Order : This class is for getting user input as order
     > Stock : This class is for stock interaction, such as adding, removing,
               setting and displaying stock information.
     > Price : This class is for calculating price.
@@ -24,7 +25,7 @@
 
 ##### Code structure:
     > main.py : This file is the main program
-    > order.py : This file get input from user
+    > order.py : This file is for getting input from user
     > price.py : This file is for calculating price from input from order.py
     > stock.py : This file is for adding, removing, updating and stock display
     > transaction.py : This file is for recording and displaying transaction
