@@ -33,3 +33,7 @@
     > menu.json : This file is for storing customer menu
     > price.json : This file stores data to price
                 such as size to price, topping to price, container to price
+
+
+##### GitHub URL:
+    https://github.com/CondricNay/Good-Boy-Ice-Cream
